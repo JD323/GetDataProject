@@ -37,7 +37,7 @@ To run the script, save it in the directory that contains the data files specifi
 
 
 ```{r}
-source("run_analysis.R"")
+source("run_analysis.R")
 ```
 
 then call it with
